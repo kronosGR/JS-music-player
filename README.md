@@ -3,7 +3,6 @@
 * HTML
 * CSS
 * Javascript
-* 
 
 
 ## Live site
